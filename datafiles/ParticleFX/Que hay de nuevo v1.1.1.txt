@@ -1,0 +1,30 @@
+NOTA:
+Antes de usar la versión 1.1.1 de ParticleFX, recuerda des-instalar la versión anterior.
+
+
+Que hay de nuevo:
+En la versión 1.1.1 hemos agregado una nueva función en la acción de configuración
+de crear Sprite como partículas, para un mejor control y manipulación de los efectos.
+
+En la versión 1.1 hemos agregados más control sobre algunos de los efectos,
+hemos agregado una nueva acción para controlar mejor los efectos 
+personalizado y aumentamos el rendimiento de velocidad creando un nuevo 
+método para crear los efectos.
+
+
+Errores arreglados:
+-El juego se ponía lento después de unos minutos. [Arreglado]
+
+
+
+IMPORTANTE:
+Antes de utilizar cualquier efectos primero debes colocar la acción 
+"Start ParticleFX" dentro del evento "Create" de tu objeto.
+
+ **Por favor leer el Manual antes de usar esta versión.**
+
+___________________________________________________________________________
+Sí necesitas ayuda o tienes preguntas con respecto al uso de la extensión
+puedes escribirnos en facebook.com/2ddentertainment o si estás teniendo 
+algún error con ParticleFX escríbenos desde el área de soporte técnico en 
+nuestra pagina: www.2ddentertainment.com
